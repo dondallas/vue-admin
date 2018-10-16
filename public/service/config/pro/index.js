@@ -16,7 +16,7 @@ module.exports = {
     },
     mysql: {     //测试数据库
         resto_brand: {
-            host: '',
+            host: '',               //地址
             port: 3306,
             username: 'root',
             password: '',
@@ -25,15 +25,15 @@ module.exports = {
     },
     mongodb: {
         admin: {
-            url: 'mongodb://newpos.docker.restoplus.cn:27017/backend',
-            password: '',
-            db: ''
+            url: '',            //地址
+            password: '',       //可以不配置
+            db: ''              //可以不配置
         },
     },
 
     redis: {
         restoplus: {
-            host: '',
+            host: '',           //地址
             port: 6379,
             password: null,
             db: 0

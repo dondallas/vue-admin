@@ -20,6 +20,9 @@
 > cd public/ & npm install
 > cd ../ & npm install
 
+#####数据初始化
+- 在public/service/config  文件下配置好  mongodb、redis、qiniu
+
 
 #程序启动
 

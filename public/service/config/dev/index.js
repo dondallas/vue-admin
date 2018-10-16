@@ -16,8 +16,7 @@ module.exports = {
     },
     mongodb: {
         admin: {
-            // url: 'mongodb://newpos.docker.restoplus.cn:27017/backend',
-            url: 'mongodb://﻿www.logoxh.cn:27017/backend',
+            url: '',
             password: '',
             db: ''
         },

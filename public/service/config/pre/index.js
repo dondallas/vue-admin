@@ -5,32 +5,18 @@
  */
 
 module.exports = {
-    sqlite: {
-        test: {
-            host: 'sqlite/test-dev.db',
-            port: 1433,
-            user: '',
-            password: '',
-            database: 'test-dev.db'
-        }
-    },
-    mysql: {
-        test: {
-            host: 'newpos.docker.restoplus.cn',
+    mysql: {    //测试数据库
+        resto_brand: {
+            host: '',
             port: 3306,
             username: 'root',
-            password: '123456',
-            database: 'pos-admin',
+            password: '',
+            database: '',
         }
     },
     mongodb: {
-        test: {
-            url: 'mongodb://newpos.docker.restoplus.cn:27017/test',
-            password: '',
-            db: ''
-        },
         admin: {
-            url: 'mongodb://newpos.docker.restoplus.cn:27017/backend',
+            url: '',
             password: '',
             db: ''
         },
@@ -38,10 +24,23 @@ module.exports = {
 
     redis: {
         restoplus: {
-            host: 'newpos.docker.restoplus.cn',
+            host: '',
             port: 6379,
             password: null,
             db: 0
         }
     },
+
+    /**
+     * 七牛云配置
+     * */
+    qiniu: {
+        accessKey: '',
+        secretKey: '',
+        oss: {
+            bucket: '',
+            host: ''
+        }
+    }
+
 };
