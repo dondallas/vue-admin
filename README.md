@@ -39,8 +39,9 @@
 > npm run pre #测试环境
 > npm run pro #生产环境
 
-如果觉得有用欢迎各位微信赞赏
-![Aaron Swartz](weix.jpg)
+##如果觉得有用欢迎各位微信赞赏
+
+![Aaron Swartz](weix.png)
 
 
 
