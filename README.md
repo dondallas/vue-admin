@@ -41,7 +41,7 @@
 
 ##如果觉得有用欢迎各位微信赞赏
 
-![Aaron Swartz](weix.png)
+![Aaron Swartz](weix.jpg)
 
 
 
