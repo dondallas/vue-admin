@@ -17,8 +17,8 @@
 - router 路由映射
 
 #####指令说明添加子模块及主程序依赖
-> cd public/ & npm install
-> cd ../ & npm install
+- cd public/ & npm install
+- cd ../ & npm install
 
 #####数据初始化
 - 在public/service/config  文件下配置好  mongodb、redis、qiniu
@@ -34,10 +34,10 @@
 - pro 表示加载生产环境配置，对应的文件是 /config/pro/index.js
 
 #####使用方式
-> npm run dev #开发环境
-> npm run build #打包前端
-> npm run pre #测试环境
-> npm run pro #生产环境
+- npm run dev #开发环境
+- npm run build #打包前端
+- npm run pre #测试环境
+- npm run pro #生产环境
 
 ##如果觉得有用欢迎各位微信赞赏
 
