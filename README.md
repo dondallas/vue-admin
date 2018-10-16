@@ -41,7 +41,7 @@
 
 
 
-![Aaron Swartz](451539676391_.pic.jpg)
+![Aaron Swartz](alipay.jpg)
 
 
 
