@@ -1,0 +1,24 @@
+{
+  "name": "resto-public",
+  "version": "0.1.2",
+  "dependencies": {
+    "amqplib": "*",
+    "async": "^2.6.1",
+    "crypto": "^1.0.1",
+    "date-format": "*",
+    "elasticsearch": "*",
+    "mkdirp": "*",
+    "mockjs": "^1.0.1-beta3",
+    "moment": "^2.22.2",
+    "mongoose": "*",
+    "mysql2": "^1.5.1",
+    "protobufjs": "^3.8.2",
+    "qiniu": "^7.2.1",
+    "redis": "*",
+    "request": "*",
+    "sequelize": "*",
+    "utf8": "*",
+    "weixin-redpack": "*",
+    "xml2js": "*"
+  }
+}
